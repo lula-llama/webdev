@@ -1,0 +1,49 @@
+https://www.w3schools.com/code/tryit.asp?filename=G5V7Z35FY24Z
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="styles.css">
+<style>
+body {background-color:powderblue;}
+h1{color: black;
+font-family: comic sans;
+font-size:300%;
+</style>
+<title> my page</title>
+<h1>My name is Luvia</h1>
+</head>
+
+<body>
+<ul style="list-style-type:square;">
+<li> apple</li>
+	<ol>
+    <li>hi</li>
+    <li>bye</li>
+	</ol>
+<li>orange</li>
+
+</ul>
+
+<table>
+<tr>
+<td> apple <td>
+<td> grape <td>
+<td> orange <td>
+</tr>
+<tr>
+<td> guava <td>
+<td> strawberry <td>
+<td> banana <td>
+</tr>
+</table>
+
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+</body>
+</html>
